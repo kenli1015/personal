@@ -1,7 +1,8 @@
 ---
 date: <% tp.date.now("YYYY-MM-DD") %>
 weekday: <% tp.date.now("dddd") %>
-tags: [daily]
+tags:
+  - daily
 ---
 # <% tp.date.now("YYYY-MM-DD ddd") %>
 

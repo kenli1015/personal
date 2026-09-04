@@ -1,6 +1,5 @@
 ---
 tags:
-  - 项目/AI
   - project
 type: project
 status: in-progress
@@ -9,6 +8,32 @@ owner: me
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 # <% tp.file.title %>
+
+## 目标 / 完成定义
+> 这个项目结束的标志是什么？
+
+## 关键决策
+
+## 任务
+- [ ] #task
+
+## 资料链接
+- [[]]
+
+## 日志# <% tp.file.title %>
+
+## 目标 / 完成定义
+> 这个项目结束的标志是什么？
+
+## 关键决策
+
+## 任务
+- [ ] #task
+
+## 资料链接
+- [[]]
+
+## 日志# <% tp.file.title %>
 
 ## 目标 / 完成定义
 > 这个项目结束的标志是什么？

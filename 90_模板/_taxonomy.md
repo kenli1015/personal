@@ -9,6 +9,7 @@
 - **management**: pm, leadership, ops, hiring
 - **health**: fitness, nutrition, sleep, mental
 - **life**: parenting, cooking, travel, home
+- **pharm**: immunology, xeno, autoimmune, CAR-T
 
 ## content_type
 - tutorial / opinion / news / paper / reference
