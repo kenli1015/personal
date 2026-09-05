@@ -4,8 +4,40 @@ author: Amos Zhu
 source: 搜索快照备份（非官方源，待补原文链接与图片）
 retrieved: 2026-09-05
 note: 本笔记由 WebSearch 全文快照整理，可能略有残缺、无原图。待用户提供公众号原文链接后用 wechat_to_obsidian.py 抓取官方版覆盖。
+type: project
+status: in-progress
+deadline:
+owner: me
+created: 2026-09-05
+tags:
 ---
+# <% tp.file.title %>
 
+## 目标 / 完成定义
+> 这个项目结束的标志是什么？
+
+## 关键决策
+
+## 任务
+- [ ] #task
+
+## 资料链接
+- [[]]
+
+## 日志# rNPV与现金流预测：管线估值框架
+
+## 目标 / 完成定义
+> 这个项目结束的标志是什么？
+
+## 关键决策
+
+## 任务
+- [ ] #task
+
+## 资料链接
+- [[]]
+
+## 日志
 # rNPV与现金流预测：管线估值框架
 
 > 作者：Amos Zhu。本文仅作学习、讨论用，不构成医疗、商业、投资建议。
